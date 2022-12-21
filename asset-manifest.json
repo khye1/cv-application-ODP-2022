@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.e3b57b44.js",
-    "index.html": "/index.html",
-    "main.e3b57b44.js.map": "/static/js/main.e3b57b44.js.map"
+    "main.js": "/cv-application-ODP-2022/static/js/main.d16d23bb.js",
+    "index.html": "/cv-application-ODP-2022/index.html",
+    "main.d16d23bb.js.map": "/cv-application-ODP-2022/static/js/main.d16d23bb.js.map"
   },
   "entrypoints": [
-    "static/js/main.e3b57b44.js"
+    "static/js/main.d16d23bb.js"
   ]
 }
